@@ -24,11 +24,9 @@ const Navbar = () => {
   return (
     <Nav ref={nav} bgColor={changeNav}>
       <NavContainer>
-        <Link to='/'>
-          <a href='#'>
-            <img src={changeNav ? logoSecondary : logoPrimary} alt='logo IDR' />
-          </a>
-        </Link>
+        <a href='#'>
+          <img src={changeNav ? logoSecondary : logoPrimary} alt='logo IDR' />
+        </a>
 
         <LinkContainer>
           {navLinks.map(({ name }, idx) => (
