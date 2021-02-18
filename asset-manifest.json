@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/soluix/static/css/main.b29ca1c9.chunk.css",
+    "main.js": "/soluix/static/js/main.e56d2079.chunk.js",
+    "main.js.map": "/soluix/static/js/main.e56d2079.chunk.js.map",
+    "runtime-main.js": "/soluix/static/js/runtime-main.6438233f.js",
+    "runtime-main.js.map": "/soluix/static/js/runtime-main.6438233f.js.map",
+    "static/js/2.552b2442.chunk.js": "/soluix/static/js/2.552b2442.chunk.js",
+    "static/js/2.552b2442.chunk.js.map": "/soluix/static/js/2.552b2442.chunk.js.map",
+    "index.html": "/soluix/index.html",
+    "static/css/main.b29ca1c9.chunk.css.map": "/soluix/static/css/main.b29ca1c9.chunk.css.map",
+    "static/js/2.552b2442.chunk.js.LICENSE.txt": "/soluix/static/js/2.552b2442.chunk.js.LICENSE.txt",
+    "static/media/mockup-ip-ipad.bddd4f68.png": "/soluix/static/media/mockup-ip-ipad.bddd4f68.png",
+    "static/media/value-prop-1.41f46a42.png": "/soluix/static/media/value-prop-1.41f46a42.png",
+    "static/media/value-prop-2.a289c6f0.png": "/soluix/static/media/value-prop-2.a289c6f0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6438233f.js",
+    "static/js/2.552b2442.chunk.js",
+    "static/css/main.b29ca1c9.chunk.css",
+    "static/js/main.e56d2079.chunk.js"
+  ]
+}
